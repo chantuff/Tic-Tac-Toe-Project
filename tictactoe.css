@@ -88,9 +88,7 @@ h1 span:nth-child(9) {
     }
 }
 
-#page-container {
-    min-width: 100%;
-}
+
 .board {
     display: grid;
     grid-template-columns: repeat(3, 100px);
@@ -114,6 +112,8 @@ h1 span:nth-child(9) {
     position: absolute;
     background-color: lightslategray;
     margin-left: -100px;
+    height: 30px;
+    width: 80px;
 }
 
 div {
