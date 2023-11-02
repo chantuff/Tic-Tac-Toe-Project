@@ -113,7 +113,8 @@ h1 span:nth-child(9) {
     background-color: lightslategray;
     margin-left: -100px;
     height: 30px;
-    width: 80px;
+    width: 100px;
+    border-radius: 6px;
 }
 
 div {
@@ -130,7 +131,7 @@ div {
 } 
 
 .blue-text {
-    color: rgb(7, 7, 87);
+    color: rgb(7, 7, 68);
     font-family: Arial, Helvetica, sans-serif;
 }
 
