@@ -24,9 +24,11 @@ function checkWinner() {
       gameActive = false;
       if (currentPlayer === 'O') {
         message.innerText = 'THE Ohio State University wins!';
+        message.classList.add('red-text')
         message.classList.remove('blue-text');
+        
       } else if (currentPlayer === 'M') {
-      message.innerText = 'M wins';
+      message.innerText = 'M wins BOOOOOOOOOOOOOO';
       message.classList.add('blue-text');
       } else {
         message.innerText = `${currentPlayer} wins`;
