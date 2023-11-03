@@ -23,7 +23,7 @@ I used HTML, CSS and Javascript to create this game.
 [https://W3Schools.com](https://www.w3schools.com/)
 
 # Deployed site
-![My deployed Tic Tac Toe Game](https://chantuff.github.io/Tic-Tac-Toe-Project/)
+ https://chantuff.github.io/Tic-Tac-Toe-Project/
 
 
 
