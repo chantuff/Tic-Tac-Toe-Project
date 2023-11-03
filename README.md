@@ -1,4 +1,5 @@
 # Tic-Tac-Toe-Project
+https://chantuff.github.io/Tic-Tac-Toe-Project/
 
 # Object of the game
 The goal of the game is for players to position their marks so that they make a continuous line of three cells vertically, horizontally, or diagonally. 
@@ -16,14 +17,13 @@ I used HTML, CSS and Javascript to create this game.
 # Array indices
 ![image](https://github.com/chantuff/Tic-Tac-Toe-Project/assets/78155828/0a4ade79-b652-403e-b992-2ce33b226584)
 
-
 # Resources used
 [online tutorials youtube channel](https://www.youtube.com/watch?v=1B3FgFXn274)
 <br>
 [https://W3Schools.com](https://www.w3schools.com/)
 
-# Deployed site
- https://chantuff.github.io/Tic-Tac-Toe-Project/
+
+ 
 
 
 
