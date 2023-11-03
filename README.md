@@ -18,8 +18,12 @@ I used HTML, CSS and Javascript to create this game.
 
 
 # Resources used
-online tutorials youtube channel<br>
-W3Schools
+[online tutorials youtube channel](https://www.youtube.com/watch?v=1B3FgFXn274)
+[https://W3Schools.com](https://www.w3schools.com/)
+
+# Deployed site
+![My deployed Tic Tac Toe Game](https://chantuff.github.io/Tic-Tac-Toe-Project/)
+
 
 
 
