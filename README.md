@@ -10,7 +10,8 @@ Each player will take a turn, the first player to get 3 O's or M's in a row will
 I used HTML, CSS and Javascript to create this game.
 
 **Flow Chart**
-![image](https://github.com/chantuff/Tic-Tac-Toe-Project/assets/78155828/18c7414f-dfb9-40f1-aeb6-637cfdc1f794)
+![image](https://github.com/chantuff/Tic-Tac-Toe-Project/assets/78155828/18c7414f-dfb9-40f1-aeb6-637cfdc1f794) <br>
+**Array indices**
 ![image](https://github.com/chantuff/Tic-Tac-Toe-Project/assets/78155828/0a4ade79-b652-403e-b992-2ce33b226584)
 
 
