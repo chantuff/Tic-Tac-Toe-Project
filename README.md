@@ -1,6 +1,6 @@
 # Tic-Tac-Toe-Project
 
-**Object of the game***
+# Object of the game
 The goal of the game is for players to position their marks so that they make a continuous line of three cells vertically, horizontally, or diagonally. 
 An opponent can prevent a win by blocking the completion of the opponent's line.
 First player will be O which represents THE Ohio State University
@@ -9,15 +9,15 @@ Each player will take a turn, the first player to get 3 O's or M's in a row will
 ![image](https://github.com/chantuff/Tic-Tac-Toe-Project/assets/78155828/2b100907-22f5-4a2c-81ab-afefa6da1242)
 I used HTML, CSS and Javascript to create this game.
 
-**Flow Chart**
+# Flow Chart
 
 
 ![image](https://github.com/chantuff/Tic-Tac-Toe-Project/assets/78155828/18c7414f-dfb9-40f1-aeb6-637cfdc1f794) <br>
-**Array indices**
+# Array indices**
 ![image](https://github.com/chantuff/Tic-Tac-Toe-Project/assets/78155828/0a4ade79-b652-403e-b992-2ce33b226584)
 
 
-**Resources used**
+# Resources used
 online tutorials youtube channel<br>
 W3Schools
 
