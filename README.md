@@ -19,6 +19,7 @@ I used HTML, CSS and Javascript to create this game.
 
 # Resources used
 [online tutorials youtube channel](https://www.youtube.com/watch?v=1B3FgFXn274)
+<br>
 [https://W3Schools.com](https://www.w3schools.com/)
 
 # Deployed site
