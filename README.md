@@ -1,4 +1,5 @@
 # Tic-Tac-Toe-Project
+https://chantuff.github.io/Tic-Tac-Toe-Project/
 
 **Object of the game***
 The goal of the game is for players to position their marks so that they make a continuous line of three cells vertically, horizontally, or diagonally. 
