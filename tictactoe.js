@@ -17,7 +17,7 @@ function checkWinner() {
     [2, 4, 6],
   ];
 
-  // used for loop to check winner 
+  // used for of loop to check winner 
   for (const combo of winningCombinations) {
     const [a, b, c] = combo;
     if (cells[a] && cells[a] === cells[b] && cells[a] === cells[c]) {
@@ -28,7 +28,7 @@ function checkWinner() {
         message.classList.remove('blue-text');
         
       } else if (currentPlayer === 'M') {
-      message.innerText = 'M wins BOOOOOOOOOOOOOO';
+      message.innerText = 'Michigan wins BOOOOOOOOOOOOOO';
       message.classList.add('blue-text');
       } else {
         message.innerText = `${currentPlayer} wins`;

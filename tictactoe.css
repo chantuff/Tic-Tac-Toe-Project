@@ -71,7 +71,7 @@ h1 span:nth-child(9) {
         filter: blur(2px);
         text-shadow: 0 0 10px #5b6366,
                     0 0 20px #434f53,
-                    0 0 40px #262b2e,
+                    0 0 40px rgb(86, 90, 92),
                     0 0 80px #3f4a4e,
                     0 0 120px #373d3f,
                     0 0 200px #373f42,
