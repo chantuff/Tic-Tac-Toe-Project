@@ -27,8 +27,8 @@ function checkWinner() {
         message.classList.add('red-text')
         message.classList.remove('blue-text');
         
-      } else if (currentPlayer === 'M') {
-      message.innerText = 'Michigan wins BOOOOOOOOOOOOOO';
+      } else if (currentPlayer === 'X') {
+      message.innerText = 'Xichigan wins BOOOOOOOOOOOOOO';
       message.classList.add('blue-text');
       } else {
         message.innerText = `${currentPlayer} wins`;
@@ -47,7 +47,7 @@ function handleClick(index) {
     cells[index] = currentPlayer;
     document.getElementById(index).innerText = currentPlayer;
     checkWinner();
-    currentPlayer = currentPlayer === "O" ? "M" : "O";
+    currentPlayer = currentPlayer === "O" ? "X" : "O";
   }
 }
 
